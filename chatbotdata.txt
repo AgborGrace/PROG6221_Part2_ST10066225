@@ -1,0 +1,5 @@
+﻿phishing|📧 Be cautious of emails requesting personal info. Always verify the sender's authenticity!
+password safety|🔑 Use strong, unique passwords. Consider a password manager.
+safe browsing|🌐 Browse secure websites (HTTPS) and avoid clicking on unknown links.
+2fa|📲 Enable two-factor authentication for extra account security.
+malware|🦠 Avoid downloading files from untrusted sources to prevent malware.
